@@ -1,0 +1,89 @@
+.statusConta {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 2rem;
+    
+}
+
+.statusConta__Div1 {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap:1rem;
+}
+
+.statusConta__Retangulo {
+
+    border: 1px solid black;
+    padding: 0.6rem;
+    border-radius: 20px;
+}
+
+.statusConta__texto {
+    margin-left: 0.5rem    
+}
+
+.statusConta__Div2 {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap:1rem;
+}
+
+.statusConta__radio :active{
+    background-color: rgb(37, 204, 76);
+}
+
+.statusConta__Div3 {
+
+    display: flex;
+    flex-direction: column;
+    gap:1rem;
+}
+
+.statusConta__DivButton {
+
+    display: flex;
+    justify-content: space-between;
+    gap:1rem;
+}
+
+.statusConta__DivButton .statusConta__Button{  
+
+    padding: 0.5rem 4rem;
+
+}
+
+
+.statusConta__Button {
+
+    background-color:rgba(62, 178, 94, 1) ;
+    color: #fff;
+    padding: 0.5rem 3rem;
+    border: none;
+    border-radius: 20px;
+}
+
+@media screen and (max-width: 480px){
+
+.conteudo{
+    flex-direction: column;
+    align-items: center;
+    gap:1rem;
+    margin-top: 2rem;
+
+    
+}
+.statusConta {
+    width: 80%;
+    gap: 2rem;
+
+}
+
+
+}
