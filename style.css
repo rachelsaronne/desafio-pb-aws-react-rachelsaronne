@@ -1,4 +1,4 @@
-
+/* 
 * {
     margin: 0;
     padding: 0;
@@ -189,9 +189,9 @@ background: #FFFFFF;
         
     
         }
-  }
+  } 
   
-  @media (width <= 425px) {
+   @media (width <= 425px) {
     .title {
       font-size: 50px;
     }
@@ -199,4 +199,4 @@ background: #FFFFFF;
     .paragraph {
       font-size: 29px;
     }
-  }
+  }  */

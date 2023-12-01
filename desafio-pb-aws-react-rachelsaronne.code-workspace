@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "desafio-pb-aws-react-rachelsaronne",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "rachel",
+		"liveServer.settings.port": 5501
+	}
+}

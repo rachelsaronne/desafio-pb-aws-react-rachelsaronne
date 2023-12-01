@@ -1,4 +1,4 @@
-.statusConta {
+/* .statusConta {
 
     display: flex;
     flex-direction: column;
@@ -36,7 +36,7 @@
 }
 
 .statusConta__radio :active{
-    background-color: rgb(37, 204, 76);
+    background-color: blue;
 }
 
 .statusConta__Div3 {
@@ -69,7 +69,7 @@
     border-radius: 20px;
 }
 
-@media screen and (max-width: 480px){
+@media screen and (max-width: 600px){
 
 .conteudo{
     flex-direction: column;
@@ -85,5 +85,4 @@
 
 }
 
-
-}
+} */
